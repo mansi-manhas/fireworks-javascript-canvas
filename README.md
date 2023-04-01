@@ -1,2 +1,1 @@
-# fireworks-javascript-canvas
-creating fireworks on mouse movement and clicks using canvas in javascript
+## Creating fireworks on mouse movement and mouse clicks: using canvas and javascript
